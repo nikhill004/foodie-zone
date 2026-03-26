@@ -52,7 +52,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/foodie-zone.git
+git clone https://github.com/nikhill004/foodie-zone.git
 
 # Navigate to project directory
 cd foodie-zone
@@ -100,6 +100,4 @@ npm run preview
 }
 ```
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
