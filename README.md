@@ -2,6 +2,8 @@
 
 A responsive food ordering landing page built with React.js and Tailwind CSS, featuring smooth animations, dark mode support, and an interactive UI.
 
+Preview: https://foodiebynik.netlify.app/
+
 ## 🚀 Tech Stack
 
 - **React 18** - Component-based UI
